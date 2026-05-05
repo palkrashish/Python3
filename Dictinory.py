@@ -17,4 +17,9 @@ chai_type["Green"] = 'Fresh Chai'
 #         print("Not a masalal chai")
 
 chai_type.pop("Masala")
-print(chai_type)
+# print(chai_type)
+
+
+name = 'ashish'
+result = name[::-1]
+print(result)
